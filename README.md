@@ -7,6 +7,9 @@ I'm...🤔
   * professional at asking good questions
   * and an expert at learning new things!
 
+
+
+
 Feel free to check out some of my projects (no ads and no in-app purchases😄):
   <br />
   <br />
@@ -17,8 +20,10 @@ Feel free to check out some of my projects (no ads and no in-app purchases😄):
   :arrow_forward: [Instant Payment App: Vinmo](https://venmo-clone.onrender.com/)
   
 In case you want to connect:
-LinkedIn: https://www.linkedin.com/in/yizhoucatherinezhang/
-AngelList: https://angel.co/u/yizhou-zhang-2
+<br />
+<br />
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yizhoucatherinezhang/) 
+[![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/yizhou-zhang-2)
 
 
 <!--
