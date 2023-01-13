@@ -9,12 +9,16 @@ I'm...🤔
 
 Feel free to check out some of my projects (no ads and no in-app purchases😄):
   <br />
+  <br />
   :arrow_forward: [Short-Term Vacation Rental - BnBAir](https://bnbair-clone.herokuapp.com)
   <br />
   :arrow_forward: [Workplace Chat App: Slacky](https://slack-clone-ca0w.onrender.com)
   <br />
   :arrow_forward: [Instant Payment App: Vinmo](https://venmo-clone.onrender.com/)
   
+In case you want to connect:
+LinkedIn: https://www.linkedin.com/in/yizhoucatherinezhang/
+AngelList: https://angel.co/u/yizhou-zhang-2
 
 
 <!--
