@@ -1,4 +1,21 @@
-### Hi there 👋
+### My name is Yizhou, pronounced as eee-joe 👋
+
+I'm...🤔
+  * a finance manager turned full-stack software engineer!
+  * a junior debugger
+  * an experienced google user
+  * professional at asking good questions
+  * and an expert at learning new things!
+
+Feel free to check out some of my projects (no ads and no in-app purchases😄):
+  <br />
+  :arrow_forward: [Short-Term Vacation Rental - BnBAir](https://bnbair-clone.herokuapp.com)
+  <br />
+  :arrow_forward: [Workplace Chat App: Slacky](https://slack-clone-ca0w.onrender.com)
+  <br />
+  :arrow_forward: [Instant Payment App: Vinmo](https://venmo-clone.onrender.com/)
+  
+
 
 <!--
 **OneBoatFly/OneBoatFly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
