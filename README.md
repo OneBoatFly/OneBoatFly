@@ -1,9 +1,9 @@
 ### My name is Yizhou, pronounced as eee-joe 👋
 
 I'm...🤔
-  * a finance manager turned full-stack software engineer!
+  * a a full-stack software engineer with over 2 years of experience!
   * a junior debugger
-  * an experienced google user
+  * an experienced chatGPT/Bard user
   * professional at asking good questions
   * and an expert at learning new things!
 
